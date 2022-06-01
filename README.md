@@ -9,9 +9,7 @@ Usage: Download/copy the HTML, JS, and CSS files in this repository to a local f
 
 Roadmap: This exercise can be improved in the future by adding features that will center the eyes if the mouse pointer has not been moved for more than ten seconds. A more advanced version could manipulate the shapes to give the effect of eyes blinking every ten seconds or so.
 
-License: MIT License
-
-Copyright (c) 2022 Owais Uddin Ahmed
+License: MIT License (NOTE: significant parts of this code was taught and/or provided via the MIT xPRO course in Full Stack Development, and I do not claim ownership over it)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
